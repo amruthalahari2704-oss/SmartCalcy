@@ -7,7 +7,7 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript with a 
 
 🚀 Live Demo
 
-https://amruthalahari12704-oss.github.io/SmartCalcy/
+ https://amruthalahari2704-oss.github.io/SmartCalcy/
 
 GitHub Repository
 
