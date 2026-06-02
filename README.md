@@ -11,7 +11,7 @@ https://amruthalahari12704-oss.github.io/SmartCalcy/
 
 GitHub Repository
 
-https://github.com/amruthalahari2704-oss/SmartCalcy/new/main?filename=README.md
+https://github.com/amruthalahari2704-oss/SmartCalcy/tree/main
 
 🛠️ Technologies Used
 
